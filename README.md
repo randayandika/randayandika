@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Muhammad Randa Yandika, and I'm a Data Science Enthusiast. Welcome to my GitHub profile!
 
