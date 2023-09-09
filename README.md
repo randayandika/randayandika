@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <!--
-**randayandika/randayandika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Muhammad Randa Yandika, and I'm a Data Science Enthusiast. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Contact Me
+
+You can reach me via email at [randayandika1@gmail.com](mailto:randayandika1@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-randa-yandika/).
